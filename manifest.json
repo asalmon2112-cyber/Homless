@@ -1,0 +1,1 @@
+{"name":"Bluetooth Audio Fix V2","description":"Prevents Discord/Revenge from forcing Bluetooth into SCO/hands-free mode during calls, preserving stereo media audio.","authors":[{"name":"Community Fix","id":"0"}],"main":"index.js","vendetta":{"icon":"speaker"},"hash":"ea85ca20263b8947f8b2ef2e4447065e5e71750a4725b7723639e6ef29a48269"}
